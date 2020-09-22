@@ -33,7 +33,7 @@ end
 
 def return_string_array(array)
   message = [5,4,3,2,1]
-  return = ['5',4,3,2,1]
+  return = ['5','4','3','2','1']
 end
 
 
