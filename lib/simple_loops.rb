@@ -35,7 +35,7 @@ def return_string_array(array)
   message = [5,4,3,2,1]
   counter = 0
   while counter < 1
-    return = message.to_s
+    puts = message.to_s
     counter += 1
   end
 end
